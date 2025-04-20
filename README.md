@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo, Kodluyoruz Front-End eğitimi kapsamında oluşturduğum ilk repo. İçinde bir adet **index.html** dosyası ve bir adet **REDME.md** dosyası yer alıyor.
+Bu repo, Kodluyoruz Front-End eğitimi kapsamında oluşturduğum ilk repo. İçinde bir adet **index.html** dosyası ve bir adet **README.md** dosyası yer alıyor.
 
 ![repodan örnek resim](assets/proje.png)
 
